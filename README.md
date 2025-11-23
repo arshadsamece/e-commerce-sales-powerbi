@@ -32,11 +32,17 @@ On the middle ,Top 5 and Bottom 5 products are listed in a Bar Graph categorized
 On the right , 2 Donut charts showing the YTD sales by region and YTD sales by shipping type - revealing WEST region highest and southern region the lowest . And standard class shipping type is most preffered.
 
 8.HIGHLIGHT:
-The Ecommerce Sales Dashboard shows that overall YTD sales stand strong at $11.53M, though slightly down by 0.83%, while YTD profit has grown by 4.50%, indicating improved profitability despite softer revenue. YTD quantity is down by 7.29%, suggesting fewer units sold but at higher margins, supported by an 11.58% profit margin, up by 5.37%. Among products, Staple Envelope and Staples lead the top contributors, while several printer and office supply items underperform.
+The Ecommerce Sales Dashboard shows that overall YTD sales stand strong at $11.53M, though slightly down by 0.83%, while YTD profit has grown by 4.50%, indicating improved profitability despite softer revenue. YTD quantity is down by 7.29%, suggesting fewer units sold but at higher margins, supported by an 11.58% profit margin, up by 5.37%. Among products, Staple Envelope and Staples lead the top contributors, while several printer and office supply items underperform
 
-
-9.
-
-
-IMPACT:
+9.IMPACT:
 The team can use these insights to rebalance promotional budgets across key countries and re align planning for seasonal product.
+
+10.SNAPSHOT OF DASHBOARD: https://github.com/arshadsamece/e-commerce-sales-powerbi/blob/main/Snapshot%20of%20dashboard.PNG
+
+
+
+
+
+
+
+
