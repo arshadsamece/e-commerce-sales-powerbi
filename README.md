@@ -1,6 +1,6 @@
 # e-commerce-sales-powerbi
 
-1.TITLE:  E-Commerce Sales Dashboard
+##TITLE:  E-Commerce Sales Dashboard
 An interactive Power BI dashboard that delivers real-time insights into sales performance across products, categories, regions, and customer segments. Designed for quick decision-making with visually rich charts, KPIs, and filters.
 
 2.PURPOSE:  This project visualizes year-to-date (YTD) sales performance using Power BI.
