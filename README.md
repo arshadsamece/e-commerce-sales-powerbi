@@ -40,6 +40,8 @@ The team can use these insights to rebalance promotional budgets across key coun
 
 ## SNAPSHOT OF DASHBOARD:
 https://github.com/arshadsamece/e-commerce-sales-powerbi/blob/main/Snapshot%20of%20dashboard.PNG
+<img width="890" height="492" alt="Snapshot of dashboard" src="https://github.com/user-attachments/assets/70251217-3f2d-434e-ad77-5885011bc360" />
+
 
 
 
