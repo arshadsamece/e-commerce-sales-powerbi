@@ -38,7 +38,8 @@ The Ecommerce Sales Dashboard shows that overall YTD sales stand strong at $11.5
 ## IMPACT:
 The team can use these insights to rebalance promotional budgets across key countries and re align planning for seasonal product.
 
-## SNAPSHOT OF DASHBOARD: https://github.com/arshadsamece/e-commerce-sales-powerbi/blob/main/Snapshot%20of%20dashboard.PNG
+## SNAPSHOT OF DASHBOARD:
+https://github.com/arshadsamece/e-commerce-sales-powerbi/blob/main/Snapshot%20of%20dashboard.PNG
 
 
 
